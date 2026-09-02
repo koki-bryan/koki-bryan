@@ -53,6 +53,6 @@ I focus on understanding the problem first, designing a maintainable solution, c
 
 ## Connect
 
-[Portfolio](#) · [LinkedIn](#https://www.linkedin.com/in/seanbryan-dev/) · [Email](#seanbryan.noces@gmail.com)
+[Portfolio](#) · [LinkedIn](https://www.linkedin.com/in/seanbryan-dev) · [Email](mailto:seanbryan.noces@gmail.com)
 
 > Building useful systems, one workflow at a time.
